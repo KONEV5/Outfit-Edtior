@@ -1,11 +1,10 @@
 # Outfit-Edtior
 External Outfit Editor for GTA V Online
 
-Offsets and Pointers get updated OTA
-https://pastebin.com/raw/ww39b45T
+# Both legacy and enhanced versions can be used and automatically recognized
+## I didn't try to start legacy and enhanced at the same time, and I didn't add the logic to start at the same time.
+## Currently supports English, Chinese, Spanish,French，Italian，Ukrainian and Portuguese
+## The language is automatically selected following the system display
 
-Start Page:
-![image](https://user-images.githubusercontent.com/47217513/180398406-c9e52fd4-b9ee-49ab-a9dc-946ed9e40554.png)
-
-Advanced View:
-![image](https://user-images.githubusercontent.com/47217513/180398516-b75ce2cd-92dd-4aee-a383-155e18793ff5.png)
+down：https://github.com/KONEV5/Outfit-Edtior/releases/tag/bbfas
+2025/5/24
