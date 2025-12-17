@@ -7,4 +7,4 @@ External Outfit Editor for GTA V Online
 ## The language is automatically selected following the system display
 
 down：https://github.com/KONEV5/Outfit-Edtior/releases/tag/bbfas
-2025/5/24
+1.72 √
